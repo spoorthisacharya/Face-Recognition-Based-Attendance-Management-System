@@ -13,10 +13,15 @@ pip install pandas
 Tkinter is included with Python by default.
 
 2)Download this repository and extract it.
+
 Create folders:
+
 -TrainingImage
+
 -TrainingImageLabel
+
 -StudentDetails
+
 -Attendance
 
 3)Edit paths in AMS_Run.py to match your system's local directories.
