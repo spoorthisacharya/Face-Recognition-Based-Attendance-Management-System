@@ -27,4 +27,5 @@ Create folders:
 3)Edit paths in AMS_Run.py to match your system's local directories.
 
 4)Run the application:
+
 -python AMS_Run.py
