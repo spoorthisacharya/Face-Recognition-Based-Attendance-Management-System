@@ -5,8 +5,11 @@ This is a Python-based application to automate attendance using face recognition
 Install the following dependencies before running the project:
 
 pip install opencv-python
+
 pip install Pillow
+
 pip install pandas
+
 Tkinter is included with Python by default.
 
 2)Download this repository and extract it.
